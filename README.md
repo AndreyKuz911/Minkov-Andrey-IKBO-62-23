@@ -1,1 +1,0 @@
-# Minkov-Andrey-IKBO-62-23
