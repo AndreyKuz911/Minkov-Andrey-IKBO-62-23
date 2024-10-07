@@ -1,0 +1,41 @@
+ls
+tail
+cd
+cd Intel
+cd Java
+cd log
+cd C:\Users\Msi\Desktop\Конф. Упр
+cd C:\Users\Msi\Desktop\Java
+mv 123.txt C:\Users\Msi\Desktop\Java
+ls
+ls
+mv 123.txt cool
+pwd
+mv 123.txt C:\cool
+mv C:\123.txt C:\cool
+mv C:\123.txt C:\cool
+mv C:\123.txt C:\cool
+mv C:\123.txt C:\cool
+ды
+ls
+"mv example.txt new_example.txt
+"
+mv 123.txt new_123.txt
+mv C:\123.txt new_123.txt
+mv C:\new_123.txt C:\123.txt
+ls
+exit
+mv C:\cool\1.txt C:\Users\Msi\Desktop\Конф. Упр
+"mv C:\cool\1.txt ""C:\Users\Msi\Desktop\Конф. Упр""
+"
+"mv C:\cool\1.txt C:\Users\Msi\Desktop\Конф.^ Упр
+"
+mv C:\cool\1.txt C:\Users\Msi\Desktop\Java
+mv C:\cool\1.txt C:\Users\Msi\Desktop\Java\1.txt
+ls
+ls
+ls
+ls
+ls
+"cd C:\Users\Msi\Documents
+"
