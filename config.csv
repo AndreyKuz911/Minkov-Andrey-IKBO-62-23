@@ -1,2 +1,0 @@
-path_to_tar_file,path_to_log_file,path_to_startup_script
-C:\path\to\filesystem.tar,C:\path\to\log.csv,C:\path\to\startup_script.txt
