@@ -1,0 +1,19 @@
+=begin
+Это многострочный
+комментарий
+=end
+
+host = localhost
+port = 8080
+options = {
+  timeout : 30;
+  retries : 3;
+}
+gravity = 9.81
+speed_of_light = 299792458
+sensors = << camera, infrared, ultrasound >>
+localhost => @host
+8080 => @port
+9.81 => @gravity
+299792458 => @speed_of_light
+	
